@@ -1,6 +1,6 @@
 .container {
   width: 600px;
-  margin: 2em auto;
+  margin: 1.5em auto;
   text-align: center;
   background: rgb(147, 228, 224);
   border-radius: 1.2em;
@@ -17,7 +17,10 @@
 }
 
 .container form {
-  padding: 5rem;
+  padding: 2.5rem;
+}
+.container form h3 {
+  margin: 0;
 }
 .container form div {
   display: flex;
