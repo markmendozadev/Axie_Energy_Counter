@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+    font-size: 2.5rem;
+  }
+  .container form {
+    padding: 2.5rem;
+  }
+}
+@media only screen and (max-width: 375px) {
+  button {
+    padding: 0.6rem;
+  }
+}
