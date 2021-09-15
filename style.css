@@ -22,7 +22,6 @@ body {
 .container form {
   padding: 2.5rem;
   background: #ffc857;
-  box-shadow: 1px 1px 1px 1px #fff;
   border-radius: 1em;
 }
 .container form h3 {
