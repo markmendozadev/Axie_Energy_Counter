@@ -1,5 +1,9 @@
 body {
-  background: #2e4052;
+  background: url("/assets/bg_.jpeg");
+  backdrop-filter: blur(20px);
+
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 .container {
   width: 600px;
@@ -21,8 +25,10 @@ body {
 
 .container form {
   padding: 2.5rem;
-  background: #ffc857;
+  background: #394a62;
+  color: #fff;
   border-radius: 1em;
+  box-shadow: 1px 0.8px 0.4px 1px #232f40;
 }
 .container form h3 {
   margin: 0;
