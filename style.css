@@ -46,4 +46,9 @@ button {
   width: 100%;
   padding: 1.5rem;
   font-size: 1.5rem;
+  background: #904040;
+  cursor: pointer;
+  border-radius: 2rem;
+  box-shadow: 1px 1px 1px 1px #582828;
+  color: #e0e0e0;
 }
